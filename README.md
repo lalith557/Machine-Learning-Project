@@ -1,1 +1,4 @@
 # Machine-Learning-Project
+
+Main Objective: Nurse-Patient Scheduling is a crucial optimization task in healthcare management that ensures the right nurse is assigned to the right patient at the right time, balancing efficiency, fairness, and quality of care. The scheduling process must account for a variety of constraints, including nurse availability, patient needs and severity, shift rotations, legal working hours, and personal preferences. Effective nurse-patient scheduling improves patient outcomes, reduces nurse burnout, and optimizes resource utilization within hospitals or care facilities. With advancements in artificial intelligence and operations research, modern scheduling systems can use algorithms like genetic algorithms, linear programming, or machine learning models to generate dynamic, real-time schedules that adapt to changing patient conditions and workforce availability.
+
